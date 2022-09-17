@@ -129,7 +129,7 @@
           <div class="col-lg-4 col-md-6 mb-5">
             <div class="product-item">
               <figure>
-                <img src="images/msi gt76.jpg" alt="Image" class="img-fluid">
+                <img src="images/msi-gt-76-titan.jpg" alt="Image" class="img-fluid">
               </figure>
               <div class="px-4">
                 <h3><a href="#">MSI GT 76 Titan</a></h3>
@@ -402,80 +402,7 @@ Windows 10 Pro - ASUS recommends Windows 10 Pro</li>
 
 
 
-    <div class="site-section border-bottom" id="team-section">
-      <div class="container">
-        <div class="row mb-5">
-          <div class="col-12 text-center">
-            <h3 class="section-sub-title">Team</h3>
-            <h2 class="section-title mb-3">Zero One</h2>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
-            <div class="person text-center">
-              <img src="images/first.jpg" alt="Image" width="100%" height="270">
-              <h3>Elijah Capudoy</h3>
-              <p class="position text-muted">Web Structure</p>
-              <p class="mb-4">"Oppai fills mans hand, flat fills mans heart"</p>
-              <ul class="ul-social-circle">
-                <li><a href="#"><span class="icon-facebook"></span></a></li>
-                <li><a href="#"><span class="icon-twitter"></span></a></li>
-                <li><a href="#"><span class="icon-linkedin"></span></a></li>
-                <li><a href="#"><span class="icon-instagram"></span></a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
-            <div class="person text-center">
-              <img src="images/second.jpg" alt="Image" height="270" width="200">
-              <h3>Edgeline Joyce</h3>
-              <p class="position text-muted">Data Structure</p>
-              <p class="mb-4">"Yan kase cute ako dyan"</p>
-              <ul class="ul-social-circle">
-                <li><a href="#"><span class="icon-facebook"></span></a></li>
-                <li><a href="#"><span class="icon-twitter"></span></a></li>
-                <li><a href="#"><span class="icon-linkedin"></span></a></li>
-                <li><a href="#"><span class="icon-instagram"></span></a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="300">
-            <div class="person text-center">
-              <img src="images/third.jpg" alt="Image" height="270">
-              <h3>Christian Dave Naguit</h3>
-              <p class="position text-muted">Data Structure</p>
-              <p class="mb-4">"Time to smash this shit ajahahaha"</p>
-              <ul class="ul-social-circle">
-                <li><a href="#"><span class="icon-facebook"></span></a></li>
-                <li><a href="#"><span class="icon-twitter"></span></a></li>
-                <li><a href="#"><span class="icon-linkedin"></span></a></li>
-                <li><a href="#"><span class="icon-instagram"></span></a></li>
-              </ul>
-            </div>
-          </div>
-		  <div class="row">
-          <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
-            <div class="person text-center">
-              <img src="images/fourth.jpg" alt="Image" width="100%" height="270">
-              <h3>Boss Marlou</h3>
-              <p class="position text-muted"> Data Structure</p>
-              <p class="mb-4">"Hahahha wag par"</p>
-              <ul class="ul-social-circle">
-                <li><a href="#"><span class="icon-facebook"></span></a></li>
-                <li><a href="#"><span class="icon-twitter"></span></a></li>
-                <li><a href="#"><span class="icon-linkedin"></span></a></li>
-                <li><a href="#"><span class="icon-instagram"></span></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    
-      </div>
-    </div>
-	
+   
     <div class="site-section testimonial-wrap" id="testimonials-section">
       <div class="container">
         <div class="row mb-5">

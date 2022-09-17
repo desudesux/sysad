@@ -103,7 +103,7 @@
 
 				    } 
 					catch (Exception $e) {
-				        $_SESSION['error'] = 'Account created. Please wait for your account to activated by an admin. ';
+				        $_SESSION['error'] = 'Account created. Please wait for your account to be activated by an admin. ';
 				        header('location: signup.php');
 				    }
 
